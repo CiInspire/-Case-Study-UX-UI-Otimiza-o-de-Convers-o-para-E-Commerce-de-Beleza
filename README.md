@@ -153,8 +153,7 @@ Para recriar este projeto no Figma com navegação interativa:
 
 Desenvolvido como estudo de caso de UX/UI & CRO para e-commerce.
 
-- **LinkedIn:** [Seu Nome / Link do Perfil]
-- **Figma:** [Link para o Arquivo Comunitário]
+- **LinkedIn:** https://www.linkedin.com/in/cibele-souza-product-designer/
 
 ---
 *Se este projeto ajudou nos seus estudos, não se esqueça de deixar uma ⭐️ neste repositório!*
